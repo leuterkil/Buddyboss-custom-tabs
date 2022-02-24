@@ -13,9 +13,9 @@
  * @package           Bb_Profile_Tabs
  *
  * @wordpress-plugin
- * Plugin Name:       Buddyboss Profile Tabs
+ * Plugin Name:       Profile Tabs for Buddyboss
  * Plugin URI:        bb-profile-tabs
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       With this plugin you can add custom profile tabs and content to buddyboss user profiles.
  * Version:           1.0.0
  * Author:            left4dev
  * Author URI:        echarissopoulos.herokuapp.com
